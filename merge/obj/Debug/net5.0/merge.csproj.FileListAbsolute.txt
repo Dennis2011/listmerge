@@ -1,0 +1,16 @@
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\merge.exe
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\merge.deps.json
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\merge.runtimeconfig.json
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\merge.runtimeconfig.dev.json
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\merge.dll
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\ref\merge.dll
+C:\Users\Dennis\source\code\merge\bin\Debug\net5.0\merge.pdb
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.csprojAssemblyReference.cache
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.AssemblyInfoInputs.cache
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.AssemblyInfo.cs
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.dll
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\ref\merge.dll
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.pdb
+C:\Users\Dennis\source\code\merge\obj\Debug\net5.0\merge.genruntimeconfig.cache
