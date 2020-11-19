@@ -1,0 +1,5 @@
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Release\netcoreapp3.1\publish\MergeApp.exe
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Release\netcoreapp3.1\publish\MergeApp.dll
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Release\netcoreapp3.1\publish\MergeApp.deps.json
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Release\netcoreapp3.1\publish\MergeApp.runtimeconfig.json
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Release\netcoreapp3.1\publish\MergeApp.pdb

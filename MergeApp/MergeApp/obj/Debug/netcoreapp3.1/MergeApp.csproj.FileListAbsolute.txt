@@ -1,0 +1,13 @@
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Debug\netcoreapp3.1\MergeApp.exe
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Debug\netcoreapp3.1\MergeApp.deps.json
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Debug\netcoreapp3.1\MergeApp.runtimeconfig.json
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Debug\netcoreapp3.1\MergeApp.runtimeconfig.dev.json
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Debug\netcoreapp3.1\MergeApp.dll
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\bin\Debug\netcoreapp3.1\MergeApp.pdb
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.csprojAssemblyReference.cache
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.AssemblyInfoInputs.cache
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.AssemblyInfo.cs
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.dll
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.pdb
+C:\Users\Dennis\Documents\GitHub\listmerge\MergeApp\MergeApp\obj\Debug\netcoreapp3.1\MergeApp.genruntimeconfig.cache
